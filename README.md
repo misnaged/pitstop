@@ -1,5 +1,5 @@
 # pitstop
-pitstop is the library that implements *fasthttp middleware chain using *alice's chain pattern 
+pitstop is a library that implements *fasthttp middleware chain using *alice's chain pattern 
 
 
 
